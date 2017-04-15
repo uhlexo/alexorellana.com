@@ -1,3 +1,3 @@
 # alexorellana.com
-my personal website
-This is the code for http://www.alexorellana.com
+This is the html/js/css for http://www.alexorellana.com
+I stole most of this from [here](https://www.w3schools.com/w3css/default.asp).
